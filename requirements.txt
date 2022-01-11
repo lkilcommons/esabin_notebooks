@@ -1,0 +1,3 @@
+maidenhead
+geospacepy
+-e git+https://github.com/lkilcommons/esabin.git#egg=esabin

@@ -1,0 +1,13 @@
+name: esabin-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - cartopy
+  - python>=3.8
+  - notebook
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pip:
+    - -r requirements.txt
